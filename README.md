@@ -1,5 +1,5 @@
 > **RETIRED — 已整合進單一 app。** 本獨立 demo 的 3D Bloch 態演化已併入
-> `~/荐家/布球/qbit-gate-viz/app.py`（Streamlit + PyVista + Panel VTK pane → `st.iframe`）。
+> `~/薦家/布球/qbit-gate-viz/app.py`（Streamlit + PyVista + Panel VTK pane → `st.iframe`）。
 > 請勿再將本目錄視為有效 demo 或從它複製骨架；保留僅供歷史對照。
 
 # Bloch Sphere · Qubit Evolution (PyVista + Panel)
